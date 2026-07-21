@@ -1,1 +1,1 @@
-KekranMekran SMS - Developed by Dev B 
+KekranMekran SMS - Developed collaboratively by Dev A and Dev B
